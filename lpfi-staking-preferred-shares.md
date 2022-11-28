@@ -11,6 +11,7 @@ LPFi can be staked to earn protocol revenue. The protocol revenue would consist 
 * Collateral Deposit Fee
 * PSM Swap Fee
 * zSOL LP Deposit Fee
+* Portion of zSOL Stability Fee
 * zSOL Treasury Staking Revenue
 
 Initially, solely the "Collateral Deposit Fee" would be collected, swapped to SOL, and distributed to LPFi staking pool.
