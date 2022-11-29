@@ -12,7 +12,7 @@ xLPFi can be minted by burning LPFi (1:1 ratio). Minted xLPFi is not redeemable 
 
 ### xLPFi Staking
 
-xLPFi can be staked to earn LPFi emissions. Unlike LPFi staking pool, protocol revenue is not shared. The emissions are set as 40,000 LPFi/year and the total allocation is 200,000 LPFi.
+xLPFi can be staked to earn LPFi emissions. Unlike LPFi staking pool, protocol revenue is not shared. The emissions are set as 30,000 LPFi/year and the total allocation is 150,000 LPFi.
 
 At this rate, LPFi emission would stop at year 6. Before the emission drains up, a  governance proposal would be made to decide if LPFi should be inflated (minted) to provide LPFi emissions.
 
