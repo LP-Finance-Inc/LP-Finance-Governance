@@ -20,19 +20,17 @@ Collateral deposit fee, zSOL LP deposit fee, and 10% of zSOL stability fee would
 
 20% of protocol revenue would be directed to **LP Finance Inc.** , a maintainer of LP Finance protocol.&#x20;
 
-### Unstaking Penalty
+### Unstaking Fee
 
 In order to prevent short-term holders from earning revenue and purely rewarding long-term holders, unstaking penalty exists.&#x20;
 
-| Staked Period                      | Penalty |
-| ---------------------------------- | ------- |
-| staking period < 7 days            | 20%     |
-| 7 days<= staking period < 14 days  | 10%     |
-| 14 days<= staking period < 21 days | 5%      |
-| 21 days<= staking period < 28 days | 2.5%    |
-| 28 days <= staking period          | 0%      |
+| Staked Period                     | Unstaking Fee |
+| --------------------------------- | ------------- |
+| staking period < 7 days           | 10%           |
+| 7 days<= staking period < 14 days | 5%            |
+| 14 days<= staking period          | 0%            |
 
-Unstaking penalty is burnt immediately when unstaked. For example, if you staked 100 LPFi but unstaked it in 2 days, you would be able to redeem 80 LPFi and 20 LPFi would be burnt.
+Unstaking penalty is burnt immediately when unstaked. For example, if you staked 100 LPFi but unstaked it in 2 days, you would be able to redeem 90 LPFi and 10 LPFi would be burnt.
 
 After staking, if the user stakes or unstakes, the period is reset to 0 days.
 
