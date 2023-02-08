@@ -10,6 +10,13 @@ description: >-
 
 xLPFi can be minted by burning LPFi (1:1 ratio). Minted xLPFi is not redeemable and should be swapped to LPFi on market.
 
+### Creating Proposals
+
+Prior to creating proposal, it is recommened to post on Github following the instructions. After discussion is complete, proposal can be voted on Realms.
+
+Governance Forum: [https://github.com/LP-Finance-Inc/governance](https://github.com/LP-Finance-Inc/governance)\
+Realms DAO: [https://app.realms.today/dao/xLPFi](https://app.realms.today/dao/xLPFi)
+
 ### Governance Parameters
 
 Creating proposals and voting is possible on Realms. There are parameters set initially to match the circulating supply and expected engagements.
